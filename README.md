@@ -135,7 +135,9 @@ Flutter is supported and used by Google, trusted by well-known brands around the
 # **Resources**:
 
 The following are different resources for your Flutter Development.  
-<br/>
+
+**Course**
+[https://www.udemy.com/course/flutter-split-screen-responsive-design-mobile-desktop-web](https://www.udemy.com/course/flutter-split-screen-responsive-design-mobile-desktop-web)
 
 **GitHub - JediPixels**  
 [https://github.com/JediPixels](https://github.com/JediPixels)
