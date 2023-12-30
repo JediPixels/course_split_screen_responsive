@@ -30,7 +30,7 @@ class _DesktopWebState extends State<DesktopWeb> {
         //      SingleChildScrollView -> Container .. BoxConstraints
         SingleChildScrollView(
           child: Container(
-            constraints: const BoxConstraints(minHeight: 300),
+            constraints: const BoxConstraints(minHeight: 300.0),
             height: MediaQuery.sizeOf(context).height,
             child: NavRail(
               selectedPageIndex: _appState.selectedPageIndex,
