@@ -224,8 +224,8 @@ The following are different resources for your Flutter Development.
 # Additional Resources
 
 
-## **Enable Impeller Engine**  
-https://docs.flutter.dev/perf/impeller
+## **Enable Impeller Engine**
+https://docs.flutter.dev/perf/impeller  
 `flutter run web --enable-impeller` (example)
 <br/>
 
