@@ -136,13 +136,13 @@ Flutter is supported and used by Google, trusted by well-known brands around the
 
 The following are different resources for your Flutter Development.  
 
-**Course**
+**Course**  
 [https://www.udemy.com/course/flutter-split-screen-responsive-design-mobile-desktop-web](https://www.udemy.com/course/flutter-split-screen-responsive-design-mobile-desktop-web)
 
 **GitHub - JediPixels**  
 [https://github.com/JediPixels](https://github.com/JediPixels)
 
-**GitHub - Flutter Responsive Split-Screen Design**
+**GitHub - Flutter Responsive Split-Screen Design**  
 [https://github.com/JediPixels/course_split_screen_responsive](https://github.com/JediPixels/course_split_screen_responsive)
 
 **My Flutter YouTube Channel**  
@@ -151,13 +151,13 @@ The following are different resources for your Flutter Development.
 **Twitter**  
 [https://twitter.com/JediPixels](https://twitter.com/JediPixels)
 
-**LinkedIn**
+**LinkedIn**   
 [https://www.linkedin.com/in/marco-napoli-jedipixels](https://www.linkedin.com/in/marco-napoli-jedipixels)
 
-**Instagram**
+**Instagram**  
 [https://www.instagram.com/JediPixels](https://www.instagram.com/JediPixels)
 
-**Pixolini Apps**
+**Pixolini Apps**  
 [https://pixolini.com](https://pixolini.com)
 
 **JediPixels Flutter Dev Site**
@@ -185,10 +185,10 @@ The following are different resources for your Flutter Development.
 **Build and Release Web App**  
 [https://docs.flutter.dev/deployment/web](https://docs.flutter.dev/deployment/web)
 
-**Build and Release macOS**
+**Build and Release macOS**  
 [https://docs.flutter.dev/deployment/macos](https://docs.flutter.dev/deployment/macos)
 
-**Build and release a Windows desktop app**
+**Build and release a Windows desktop app**  
 [https://docs.flutter.dev/deployment/windows](https://docs.flutter.dev/deployment/windows)
 
 ## **Community Online**
@@ -202,7 +202,7 @@ The following are different resources for your Flutter Development.
 **Stack Overflow**  
 [https://stackoverflow.com/tags/flutter](https://stackoverflow.com/tags/flutter)
 
-**Breaking Changes**
+**Breaking Changes**  
 [https://groups.google.com/forum/#!forum/flutter-announce](https://groups.google.com/forum/#!forum/flutter-announce)
 
 **Community Slack**  
@@ -224,38 +224,38 @@ The following are different resources for your Flutter Development.
 # Additional Resources
 
 
-## **Enable Impeller Engine**
+## **Enable Impeller Engine**  
 https://docs.flutter.dev/perf/impeller
 `flutter run web --enable-impeller` (example)
 <br/>
 
 ## **Create Production Compiles for iOS and Android**
 
-**Create Android Google Play Version**
+**Create Android Google Play Version**  
 `flutter build appbundle --build-number=2` (increase build-number for each release)
 
-**Create Apple Store iOS Version**
+**Create Apple Store iOS Version**  
 `flutter build iOS`
 
 
 ## **Create Production Compiles for Web**
-**Web - Run in Chrome Render HTML**
+**Web - Run in Chrome Render HTML**  
 `flutter run -d chrome --web-renderer html`
 
-**Web - Run in Chrome using the default renderer option (auto):**
+**Web - Run in Chrome using the default renderer option (auto):**  
 `flutter run -d chrome`
 
 **Web - Run your app in profile mode using the HTML renderer:**  
 `flutter run -d chrome --web-renderer html --profile` (profile to analyze performance)
 
-**Web - Build your app in release mode, using the default (auto) option:**
+**Web - Build your app in release mode, using the default (auto) option:**  
 `flutter build web --release`
 
-**Web - Build your app in release mode, using just the CanvasKit renderer:**
+**Web - Build your app in release mode, using just the CanvasKit renderer:**  
 `flutter build web --web-renderer canvaskit --release`
 
-**Web - Build your app in release mode, using just the HTML renderer:**
+**Web - Build your app in release mode, using just the HTML renderer:**  
 `flutter build web --release  --web-renderer html`
 
-**Web - Build your app in release mode, using Auto Detect renderer:**
+**Web - Build your app in release mode, using Auto Detect renderer:**  
 `flutter build web --release  --dart-define=FLUTTER_WEB_AUTO_DETECT=true`
